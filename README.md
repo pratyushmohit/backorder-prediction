@@ -1,1 +1,2 @@
-# backorder-prediction
+# Predicting Material Backorders in Inventory Management
+This is walkthrough of my case study on a research paper presented at the IEEE Conference, 2017. The authors of the paper have considered a real-world imbalanced dataset available on Kaggle's competition Can you predict Product Backorders?. We will delve deep into how material backorders can be minimized during inventory management. But before that, let us understand what exactly are backorders and how to handle them in a theoretical perspective.
