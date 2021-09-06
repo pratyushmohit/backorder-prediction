@@ -19,3 +19,6 @@ model_building.pdf: This is a pdf version of the model_building.ipynb notebook.
 
 final_updated.ipynb: After finializing the model which gave the best results on the test set, I have built the entire pipeline beginning from taking a raw datapoint 'x' to predicting the class label. It also have a function which takes the entire dataset as input and gives the performance metrics of the best model as output.
 final_updated.pdf: This is a pdf version of the final_updated.ipynb notebook.
+
+streamlitapp: I have deployed the model on AWS using streamlit. All the required files are in this directory. To view the deployed model, please follow the link below. 
+http://34.238.245.11:8501/
