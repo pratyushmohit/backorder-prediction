@@ -2,6 +2,8 @@
 This is a case study on a research paper published at the IEEE conference, 2017. 
 https://www.researchgate.net/publication/319553365_Predicting_Material_Backorders_in_Inventory_Management_using_Machine_Learningv
 
+Link to the dataset: https://github.com/rodrigosantis1/backorder_prediction/blob/master/dataset.rar
+
 The goal is to minimize backorders by identifying the material at risk of backorder before the event occurs. This gives the business management a suitable time to react and make appropriate changes. The dataset for this problem has 2 classes, positive and negative classes. The positive class meaning the product went into backorder and the negative class indicating the opposite. This makes the problem a binary class classification. The data is highly imbalanced with a ratio of 1:148 for the positive and negative class respectively for the train set. Majority of the classes are negative i.e, most of the products did not go into backorder.
 
 ### eda_and_feature_engineering.ipynb: 
