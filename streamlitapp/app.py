@@ -26,3 +26,5 @@ if uploaded_file is not None:
    predictions = predict(x)
    st.write(predictions)
    st.write('Done')
+
+   
